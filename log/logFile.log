@@ -1,0 +1,522 @@
+[INFO][2022-11-23 15:55:18][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:18][Seaweedfs Test]upload 0 files cost 10008ms
+[INFO][2022-11-23 15:55:28][org.apache.http.impl.execchain.RetryExec]I/O exception (java.net.SocketException) caught when processing request to {}->http://10.0.82.146:8080: Broken pipe (Write failed)
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 15:55:29][org.apache.http.impl.execchain.RetryExec]I/O exception (java.net.SocketException) caught when processing request to {}->http://10.0.82.147:8080: Broken pipe (Write failed)
+[INFO][2022-11-23 15:55:38][Seaweedfs Test]thread upload details:0 0 0 0 0 0 0 0 0 0
+[INFO][2022-11-23 15:55:38][Seaweedfs Test]upload 0 files cost 30001ms
+[INFO][2022-11-23 15:55:42][org.apache.http.impl.execchain.RetryExec]I/O exception (java.net.SocketException) caught when processing request to {}->http://10.0.82.147:8080: Broken pipe (Write failed)
+[INFO][2022-11-23 15:58:43][Seaweedfs Test]thread upload details:100
+[INFO][2022-11-23 15:58:43][Seaweedfs Test]upload 100 files cost 10007ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20000ms
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 15:58:53][Seaweedfs Test]upload 400 files cost 20001ms
+[INFO][2022-11-23 15:59:03][Seaweedfs Test]thread upload details:600
+[INFO][2022-11-23 15:59:03][Seaweedfs Test]upload 600 files cost 30001ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40000ms
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]thread upload details:800
+[INFO][2022-11-23 15:59:13][Seaweedfs Test]upload 800 files cost 40001ms
+[INFO][2022-11-23 15:59:48][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 15:59:48][Seaweedfs Test]upload 0 files cost 10008ms
+[INFO][2022-11-23 15:59:58][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 15:59:58][Seaweedfs Test]upload 0 files cost 20002ms
+[INFO][2022-11-23 16:09:16][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:16][Seaweedfs Test]upload 0 files cost 10009ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:26][Seaweedfs Test]upload 0 files cost 20001ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]thread upload details:0 0 0
+[INFO][2022-11-23 16:09:36][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:13:55][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:13:55][Seaweedfs Test]upload 0 files cost 10008ms
+[INFO][2022-11-23 16:14:05][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:05][Seaweedfs Test]upload 0 files cost 20001ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:15][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:36][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:36][Seaweedfs Test]upload 0 files cost 10009ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:46][Seaweedfs Test]upload 0 files cost 20001ms
+[INFO][2022-11-23 16:14:56][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:56][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:14:56][Seaweedfs Test]thread upload details:0
+[INFO][2022-11-23 16:14:56][Seaweedfs Test]upload 0 files cost 30001ms
+[INFO][2022-11-23 16:15:06][Seaweedfs Test]thread upload details:100
+[INFO][2022-11-23 16:15:06][Seaweedfs Test]upload 100 files cost 40001ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50000ms
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]thread upload details:400
+[INFO][2022-11-23 16:15:16][Seaweedfs Test]upload 400 files cost 50001ms
+[INFO][2022-11-23 16:15:26][Seaweedfs Test]thread upload details:700
+[INFO][2022-11-23 16:15:26][Seaweedfs Test]upload 700 files cost 60000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70000ms
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]thread upload details:900
+[INFO][2022-11-23 16:15:36][Seaweedfs Test]upload 900 files cost 70001ms
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]thread upload details:1100
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]upload 1100 files cost 80000ms
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]thread upload details:1100
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]upload 1100 files cost 80000ms
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]thread upload details:1100
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]upload 1100 files cost 80000ms
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]thread upload details:1100
+[INFO][2022-11-23 16:15:46][Seaweedfs Test]upload 1100 files cost 80000ms
+[INFO][2022-11-23 16:15:56][Seaweedfs Test]thread upload details:1400
+[INFO][2022-11-23 16:15:56][Seaweedfs Test]upload 1400 files cost 90001ms
+[INFO][2022-11-23 16:16:06][Seaweedfs Test]thread upload details:1600
+[INFO][2022-11-23 16:16:06][Seaweedfs Test]upload 1600 files cost 100001ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110000ms
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]thread upload details:1900
+[INFO][2022-11-23 16:16:16][Seaweedfs Test]upload 1900 files cost 110001ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120000ms
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]thread upload details:2100
+[INFO][2022-11-23 16:16:26][Seaweedfs Test]upload 2100 files cost 120001ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130000ms
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]thread upload details:2400
+[INFO][2022-11-23 16:16:36][Seaweedfs Test]upload 2400 files cost 130001ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]thread upload details:2700
+[INFO][2022-11-23 16:16:46][Seaweedfs Test]upload 2700 files cost 140000ms
+[INFO][2022-11-23 16:16:56][Seaweedfs Test]thread upload details:2900
+[INFO][2022-11-23 16:16:56][Seaweedfs Test]upload 2900 files cost 150001ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160000ms
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]thread upload details:3200
+[INFO][2022-11-23 16:17:06][Seaweedfs Test]upload 3200 files cost 160001ms
+[INFO][2022-11-23 16:17:16][Seaweedfs Test]thread upload details:3400
+[INFO][2022-11-23 16:17:16][Seaweedfs Test]upload 3400 files cost 170001ms
+[INFO][2022-11-23 16:17:26][Seaweedfs Test]thread upload details:3700
+[INFO][2022-11-23 16:17:26][Seaweedfs Test]upload 3700 files cost 180001ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190000ms
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]thread upload details:4000
+[INFO][2022-11-23 16:17:36][Seaweedfs Test]upload 4000 files cost 190001ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200000ms
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]thread upload details:4200
+[INFO][2022-11-23 16:17:46][Seaweedfs Test]upload 4200 files cost 200001ms
+[INFO][2022-11-23 16:18:57][Seaweedfs Test]thread upload details:200
+[INFO][2022-11-23 16:18:57][Seaweedfs Test]upload 200 files cost 10009ms
+[INFO][2022-11-23 16:19:17][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:17][Seaweedfs Test]upload 0 files cost 10009ms
+[INFO][2022-11-23 16:19:27][org.apache.http.impl.execchain.RetryExec]I/O exception (java.net.SocketException) caught when processing request to {}->http://10.0.82.147:8080: Broken pipe (Write failed)
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:19:27][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:20:18][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:18][Seaweedfs Test]upload 0 files cost 10012ms
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:28][Seaweedfs Test]upload 0 files cost 20000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30000ms
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:38][Seaweedfs Test]upload 0 files cost 30001ms
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]upload 0 files cost 40000ms
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]upload 0 files cost 40000ms
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]upload 0 files cost 40000ms
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]thread upload details:0 0 0 0 0
+[INFO][2022-11-23 16:20:48][Seaweedfs Test]upload 0 files cost 40001ms
